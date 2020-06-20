@@ -6,7 +6,6 @@ const RESOURCES = {
   "assets/AssetManifest.json": "c0aa5e4448b85bb1d7a139ee9b008ae4",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "7f1df1ee47854388e684afc0845ea820",
 "assets/NOTICES": "2c90804a337a1425f79bf21539626fa5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/rflutter_alert/assets/images/2.0x/close.png": "abaa692ee4fa94f76ad099a7a437bd4f",
@@ -30,7 +29,7 @@ const RESOURCES = {
 "index.html": "a9b6bf2053cd693a98820df02b818063",
 "/": "a9b6bf2053cd693a98820df02b818063",
 "logo.png": "f4bad5b3a0d8811f9bcef118aba6b8f8",
-"main.dart.js": "6c903e9238c5cb01013bc14f8879690d",
+"main.dart.js": "392d4e3827e4fc046a397b2d20dc55b6",
 "manifest.json": "33d48e78e8c6d0567f82733f049dc5ab"
 };
 
